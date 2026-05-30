@@ -2,13 +2,6 @@
 
 # ✦ Harjas Suneja — Portfolio
 
-### [🌐 Live Demo](https://harjassunejagit.github.io) &nbsp;·&nbsp; [📄 Resume](./Harjas_Suneja_Resume.pdf) &nbsp;·&nbsp; [💼 LinkedIn](https://www.linkedin.com/in/harjas-suneja/) &nbsp;·&nbsp; [🐙 GitHub](https://github.com/harjassunejagit)
-
-![Portfolio Preview](./preview.png)
-
-</div>
-
----
 ## 👨‍💻 About Me
 
 I'm **Harjas Suneja**, a B.Tech Computer Science Engineering (AI & ML) student at VIT Chennai.

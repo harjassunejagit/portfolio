@@ -31,13 +31,12 @@ Personal portfolio website for **Harjas Suneja** — B.Tech CSE (AI & ML) studen
 
 | # | Section | Description |
 |---|---------|-------------|
-| 1 | **Hero** | Name, role, metrics (CGPA, fraud detection accuracy, alert reduction), photo frame, quick-facts grid, resume & project CTAs |
+| 1 | **Home** | Name, role, metrics (CGPA, fraud detection accuracy, alert reduction), photo frame, quick-facts grid, resume & project CTAs |
 | 2 | **About** | Personal statement, bio, about cards (Research, What I Build, Recognition, Goal), badge tags |
 | 3 | **Research** | AI-driven blockchain trust score paper (under review, 2026) with stats and tech stack |
-| 4 | **Projects** | 5 projects — FocusForge V2, Brain Tumor Analysis, MediSync AI, AI Terminal Debug Assistant, Medlink AI |
+| 4 | **Projects** | 5 projects — FocusForge V2, Multi-Modal Brain Tumor Analysis, MediSync AI, AI Terminal Debug Assistant, Medlink AI |
 | 5 | **Skills** | 6 skill categories with animated progress bars |
-| 6 | **Certifications** | Duke University, Microsoft + LinkedIn Learning, Infosys + Yuva Hackathon award |
-| 7 | **Contact** | Email, GitHub, LinkedIn, Resume download |
+| 6 | **Contact** | Email, GitHub, LinkedIn |
 
 ---
 ## 🧠 Research Work
